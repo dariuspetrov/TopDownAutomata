@@ -16,8 +16,8 @@ class Stack:
 
     def size(self):
         return len(self.items)
-from itertools import cycle
-#p = ['id','+','id','*','id',' ']
+
+p = ['id','+','id','*','id',' ']
 #p = ['id','*','id','-','id','*','id',' ']
 #p = ['id','+','id','*','id','*','id','-','id','+','id',' ']
 #p = ['id','/','id','-','id','+','id','*','id','-','id','+','id',' ']
